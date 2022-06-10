@@ -292,7 +292,8 @@ h6 {
     z-index: 999;
     background:#2a0e3c;
 }
-.bx-pager.bx-default-pager{display: none;}
+
+/*.bx-pager.bx-default-pager{display: none;}*/
 
 #kode-header:after {
     display: block;
@@ -304,7 +305,7 @@ h6 {
     float: left;
     max-width: 180px;
     margin: 0 20px 0 20px;
-    padding: 30px 0 10px 0;
+    padding: 22px 0 10px 0;
 }
 
 .kode-logo a {
@@ -395,7 +396,7 @@ h6 {
     color: #fff;
     font-size: 16px;
     overflow: hidden;
-    padding: 20px 40px 18px;
+    padding: 30px 40px 18px;
     display: inline-block;
     vertical-align: middle;
     max-width: 425px;
@@ -469,7 +470,7 @@ h6 {
 .kode-nav ul li a {
     display: block;
     color: #fff;
-    padding: 37px 10px;
+    padding: 30px 10px;
     transition: all 0.5s ease 0s;
     -webkit-transition: all 0.5s ease 0s;
     -moz-transition: all 0.5s ease 0s;
@@ -2561,289 +2562,120 @@ h6 {
 .our-speaker-social-section span{margin-bottom: 10px !important; font-size: 16px !important;font-style: italic;}
 
 .our-team-first .our-speaker-social-section {
-    float: left;
+    float: right;
     width: 50%;
 }
 .our-team-second .our-speaker-social-section {
-    float: right;
+    float: left;
     width: 50%;
 }
 .our-team-third .our-speaker-social-section {
-    float: left;
+    float: right;
     width: 50%;
 }
 .our-team-fourth .our-speaker-social-section {
-    float: right;
+    float: left;
     width: 50%;
 }
 .our-team-fifth .our-speaker-social-section {
-    float: left;
+    float: right;
     width: 50%;
 }
 .our-team-sixth .our-speaker-social-section {
-    float: right;
+    float: left;
     width: 50%;
 }
 .our-team-seven .our-speaker-social-section {
-    float: left;
+    float: right;
     width: 50%;
 }
 .our-team-eight .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-nine .our-speaker-social-section {
     float: left;
     width: 50%;
 }
-.our-team-ten .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-eleven .our-speaker-social-section {
-    float: left;
-    width: 50%;
-}
-.our-team-twelve .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-thirteen .our-speaker-social-section {
-    float: left;
-    width: 50%;
-}
-.our-team-fourteen .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-fifteen .our-speaker-social-section {
-    float: left;
-    width: 50%;
-}
-.our-team-sixteen .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-seventeen .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-eighteen .our-speaker-social-section {
-    float: left;
-    width: 50%;
-}
-.our-team-nineteen .our-speaker-social-section {
-    float: right;
-    width: 50%;
-}
-.our-team-twenty .our-speaker-social-section {
-    float: left;
-    width: 50%;
-}
-
 
 
 .our-team-first {
-    background-position: 722px bottom;
+    background-position: 0px bottom;
     background-repeat: no-repeat;
     float: left;
 }
+
 .our-team-second {
-    background-position: 0px bottom;
+    background-position: 722px bottom;
     background-repeat: no-repeat;
     float: left;
 }
 .our-team-third {
-    background-position: 722px bottom;
+    background-position: 0px bottom;
     background-repeat: no-repeat;
     float: left;
 }
 .our-team-fourth {
-    background-position: 0px bottom;
+    background-position: 722px bottom;
     background-repeat: no-repeat;
     float: left;
 }
 .our-team-fifth {
-    background-position: 722px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-sixth {
     background-position: 0px bottom;
     background-repeat: no-repeat;
     float: left;
 }
-.our-team-seven {
+.our-team-sixth {
     background-position: 722px bottom;
+    background-repeat: no-repeat;
+    float: left;
+}
+.our-team-seven {
+    background-position: 0px bottom;
     background-repeat: no-repeat;
     float: left;
 }
 .our-team-eight {
-    background-position: 0px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-nine {
     background-position: 722px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-ten {
-    background-position: 0px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-eleven {
-    background-position: 722px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-twelve {
-    background-position: 0px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-thirteen {
-    background-position: 772px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-fourteen {
-    background-position: 0px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-fifteen {
-    background-position: 772px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-sixteen {
-    background-position: 0px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-seventeen {
-    background-position: 0 bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-eighteen {
-    background-position: 0px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-nineteen {
-    background-position: 772px bottom;
     background-repeat: no-repeat;
     float: left;
 }
 
 .our-team-first {
-    background-image: url("images/deepak-solanki.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
+    background-image: url("images/Fabien-Pierrel.png");
 }
 
 .our-team-second {
-    background-image: url("images/HarpreetSingh.png");
+    background-image: url("images/Saurabh-Chandra.png");
+    background-position: 604px bottom;
+    background-repeat: no-repeat;
+    float: left;
 }
 
 .our-team-third {
-    background-image: url("images/venkatesh-krishnan.png");
+    background-image: url("images/Clifton-Menezes.png");
+    }
+
+.our-team-fourth {
+    background-image: url("images/Sarika-Naik.png");
     background-position: 604px bottom;
     background-repeat: no-repeat;
     float: left;
-}
-
-.our-team-fourth {
-    background-image: url("images/Leslie-Joseph.png");
 }
 
 .our-team-fifth {
-    background-image: url("images/Antoine-Imbert.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
+    background-image: url("images/Sanjay-Amesur.png");
 }
 
 .our-team-sixth {
-    background-image: url("images/patrick-nicolet.png");
-}
-
-.our-team-seven {
-    background-image: url("images/michiel-boreel.png");
+    background-image: url("images/Elisabetta-Spontoni.png");
     background-position: 604px bottom;
     background-repeat: no-repeat;
     float: left;
+}
+
+.our-team-seven {
+    background-image: url("images/Andre-Cichowlas.png");
 }
 
 .our-team-eight {
     background-image: url("images/sudhir-pai.png");
-}
-
-.our-team-nine {
-    background-image: url("images/Nisheeth-Srivastava.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-
-.our-team-ten {
-    background-image: url("images/Virginie.png");
-}
-
-.our-team-eleven {
-    background-image: url("images/sandhya-sule.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-
-.our-team-twelve {
-    background-image: url("images/Parag-Rede.png");
-}
-
-.our-team-thirteen {
-    background-image: url("images/srikanth-mopidevi.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-
-.our-team-fourteen {
-    background-image: url("images/krishnamurthy-voora.png");
-}
-
-.our-team-fifteen {
-    background-image: url("images/rupesh-mehta.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-
-.our-team-sixteen {
-    background-image: url("images/ashutosh-sharma.png");
-}
-
-.our-team-seventeen {
-    background-image: url("images/magesh-rajamani.png");
-}
-.our-team-eighteen {
-    background-image: url("images/madhusudhanan-rangarajan.png");
-    background-position: 604px bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-nineteen {
-    background-image: url("images/sathish-n.png");   
-     background-position: 0 bottom;
-    background-repeat: no-repeat;
-    float: left;
-}
-.our-team-twenty {
-    background-image: url("images/ramchandra-walvekar.png");
     background-position: 604px bottom;
     background-repeat: no-repeat;
     float: left;
@@ -2857,20 +2689,8 @@ h6 {
     background-image: url("images/albret.png");
 }
 
-.our-team-eighteen .our-speaker-social-section,
-.our-team-nineteen .our-speaker-social-section,
-.our-team-twenty .our-speaker-social-section,
-.our-team-seventeen .our-speaker-social-section,
-.our-team-sixteen .our-speaker-social-section,
-.our-team-fifteen .our-speaker-social-section,
-.our-team-fourteen .our-speaker-social-section,
-.our-team-seven .our-speaker-social-section,
 .our-team-eight .our-speaker-social-section,
-.our-team-nine .our-speaker-social-section,
-.our-team-ten .our-speaker-social-section,
-.our-team-eleven .our-speaker-social-section,
-.our-team-thirteen .our-speaker-social-section,
-.our-team-twelve .our-speaker-social-section,
+.our-team-seven .our-speaker-social-section,
 .our-team-sixth .our-speaker-social-section,
 .our-team-fifth .our-speaker-social-section,
 .our-team-fourth .our-speaker-social-section,
@@ -2880,20 +2700,8 @@ h6 {
     padding: 60px 0 80px;
 }
 
-.our-team-eighteen .our-speaker-social-section > h3,
-.our-team-nineteen .our-speaker-social-section > h3,
-.our-team-twenty .our-speaker-social-section > h3,
-.our-team-seventeen .our-speaker-social-section > h3,
-.our-team-sixteen .our-speaker-social-section > h3,
-.our-team-fifteen .our-speaker-social-section > h3,
-.our-team-fourteen .our-speaker-social-section > h3,
-.our-team-seven .our-speaker-social-section > h3,
 .our-team-eight .our-speaker-social-section > h3,
-.our-team-nine .our-speaker-social-section > h3,
-.our-team-ten .our-speaker-social-section > h3,
-.our-team-eleven .our-speaker-social-section > h3,
-.our-team-twelve .our-speaker-social-section > h3,
-.our-team-thirteen .our-speaker-social-section > h3,
+.our-team-seven .our-speaker-social-section > h3,
 .our-team-sixth .our-speaker-social-section > h3,
 .our-team-fifth .our-speaker-social-section > h3,
 .our-team-fourth .our-speaker-social-section > h3,
@@ -2904,134 +2712,66 @@ h6 {
     margin-bottom: 9px;
 }
 
-.our-team-twenty .our-speaker-social-section > span,
-.our-team-nineteen .our-speaker-social-section > span,
-.our-team-eighteen .our-speaker-social-section > span,
-.our-team-seventeen .our-speaker-social-section > span,
-.our-team-sixteen .our-speaker-social-section > span,
-.our-team-fifteen .our-speaker-social-section > span,
-.our-team-fourteen .our-speaker-social-section > span,
-.our-team-seven .our-speaker-social-section > span,
 .our-team-eight .our-speaker-social-section > span,
-.our-team-nine .our-speaker-social-section > span,
-.our-team-ten .our-speaker-social-section > span,
-.our-team-eleven .our-speaker-social-section > span,
-.our-team-twelve .our-speaker-social-section > span,
-.our-team-thirteen .our-speaker-social-section > span,
+.our-team-seven .our-speaker-social-section > span,
 .our-team-sixth .our-speaker-social-section > span,
 .our-team-fifth .our-speaker-social-section > span,
 .our-team-fourth .our-speaker-social-section > span,
 .our-team-third .our-speaker-social-section > span,
-.our-team-second .our-speaker-social-section > span,
-.our-team-first .our-speaker-social-section > span {
+.our-team-first .our-speaker-social-section > span,
+.our-team-second .our-speaker-social-section > span {
     font-size: 20px;
     margin-bottom: 28px;
     display: block;
     color: #666666;
 }
 
-.our-team-twenty .our-speaker-social-section p,
-.our-team-nineteen .our-speaker-social-section p,
-.our-team-eighteen .our-speaker-social-section p,
-.our-team-seventeen .our-speaker-social-section p,
-.our-team-sixteen .our-speaker-social-section p,
-.our-team-fifteen .our-speaker-social-section p,
-.our-team-fourteen .our-speaker-social-section p,
-.our-team-seven .our-speaker-social-section p,
 .our-team-eight .our-speaker-social-section p,
-.our-team-nine .our-speaker-social-section p,
-.our-team-ten .our-speaker-social-section p,
-.our-team-eleven .our-speaker-social-section p,
-.our-team-twelve .our-speaker-social-section p,
-.our-team-thirteen .our-speaker-social-section p,
+.our-team-seven .our-speaker-social-section p,
 .our-team-sixth .our-speaker-social-section p,
 .our-team-fifth .our-speaker-social-section p,
 .our-team-fourth .our-speaker-social-section p,
 .our-team-third .our-speaker-social-section p,
-.our-team-second .our-speaker-social-section p,
-.our-team-first .our-speaker-social-sectio p {
+.our-team-first .our-speaker-social-sectio p,
+.our-team-second .our-speaker-social-section p, {
     font-size: 16px;
     margin-bottom: 15px;
     color: #727272;
 }
-.our-team-twenty .our-speaker-social-section ul li,
-.our-team-nineteen .our-speaker-social-section ul li,
-.our-team-eighteen .our-speaker-social-section ul li,
-.our-team-seventeen .our-speaker-social-section ul li,
-.our-team-sixteen .our-speaker-social-section ul li,
-.our-team-fifteen .our-speaker-social-section ul li,
-.our-team-seventeen .our-speaker-social-section ul li,
-.our-team-sixteen .our-speaker-social-section ul li,
-.our-team-fifteen .our-speaker-social-section ul li,
-.our-team-fourteen .our-speaker-social-section ul li,
-.our-team-seven .our-speaker-social-section ul li,
+
 .our-team-eight .our-speaker-social-section ul li,
-.our-team-nine .our-speaker-social-section ul li,
-.our-team-ten .our-speaker-social-section ul li,
-.our-team-eleven .our-speaker-social-section ul li,
-.our-team-twelve .our-speaker-social-section ul li,
-.our-team-thirteen .our-speaker-social-section ul li,
+.our-team-seven .our-speaker-social-section ul li,
 .our-team-sixth .our-speaker-social-section ul li,
 .our-team-fifth .our-speaker-social-section ul li,
 .our-team-fourth .our-speaker-social-section ul li,
 .our-team-third .our-speaker-social-section ul li,
-.our-team-first .our-speaker-social-section ul li,
-.our-team-second .our-speaker-social-section ul li {
+.our-team-second .our-speaker-social-section ul li,
+.our-team-first .our-speaker-social-section ul li {
     float: left;
     margin: 0;
     border-right: 1px solid #b5b5b5;
     list-style: none;
 }
 
-.our-team-twenty .our-speaker-social-section ul li:last-child,
-.our-team-nineteen .our-speaker-social-section ul li:last-child,
-.our-team-eighteen .our-speaker-social-section ul li:last-child,
-.our-team-seventeen .our-speaker-social-section ul li:last-child,
-.our-team-sixteen .our-speaker-social-section ul li:last-child,
-.our-team-fifteen .our-speaker-social-section ul li:last-child,
-.our-team-seventeen .our-speaker-social-section ul li:last-child,
-.our-team-sixteen .our-speaker-social-section ul li:last-child,
-.our-team-fifteen .our-speaker-social-section ul li:last-child,
-.our-team-fourteen .our-speaker-social-section ul li:last-child,
-.our-team-seven .our-speaker-social-section ul li:last-child,
 .our-team-eight .our-speaker-social-section ul li:last-child,
-.our-team-nine .our-speaker-social-section ul li:last-child,
-.our-team-ten .our-speaker-social-section ul li:last-child,
-.our-team-eleven .our-speaker-social-section ul li:last-child,
-.our-team-twelve .our-speaker-social-section ul li:last-child,
-.our-team-thirteen .our-speaker-social-section ul li:last-child,
+.our-team-seven .our-speaker-social-section ul li:last-child,
 .our-team-sixth .our-speaker-social-section ul li:last-child,
 .our-team-fifth .our-speaker-social-section ul li:last-child,
 .our-team-fourth .our-speaker-social-section ul li:last-child,
 .our-team-third .our-speaker-social-section ul li:last-child,
-.our-team-first .our-speaker-social-section ul li:last-child,
-.our-team-second .our-speaker-social-section ul li:last-child {
+.our-team-second .our-speaker-social-section ul li:last-child,
+.our-team-first .our-speaker-social-section ul li:last-child, {
     border-right: none;
 }
 
-.our-team-twenty .our-speaker-social-section a,
-.our-team-nineteen .our-speaker-social-section a,
-.our-team-eighteen .our-speaker-social-section a,
-.our-team-seventeen .our-speaker-social-section a,
-.our-team-sixteen .our-speaker-social-section a,
-.our-team-fifteen .our-speaker-social-section a,
-.our-team-seventeen .our-speaker-social-section a,
-.our-team-sixteen .our-speaker-social-section a,
-.our-team-fifteen .our-speaker-social-section a,
-.our-team-fourteen .our-speaker-social-section a,
-.our-team-seven .our-speaker-social-section a,
 .our-team-eight .our-speaker-social-section a,
-.our-team-nine .our-speaker-social-section a,
-.our-team-ten .our-speaker-social-section a,
-.our-team-eleven .our-speaker-social-section a,
-.our-team-twelve .our-speaker-social-section a,
-.our-team-thirteen .our-speaker-social-section a,
+.our-team-seven .our-speaker-social-section a,
 .our-team-sixth .our-speaker-social-section a,
 .our-team-fifth .our-speaker-social-section a,
 .our-team-fourth .our-speaker-social-section a,
 .our-team-third .our-speaker-social-section a,
-.our-team-first .our-speaker-social-section a,
-.our-team-second .our-speaker-social-section a {
+.our-team-second .our-speaker-social-section a,
+.our-team-first .our-speaker-social-section a {
     display: inline-block;
     padding: 0 14px;
     color: #333333;
