@@ -6368,6 +6368,13 @@ ul.custom li {
     margin-bottom: 20px;
 }
 
+.twitter-box-inside {
+    margin-bottom: 20px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 600px;
+}
+
 .over-state a {
     color: #fff;
 }
@@ -6433,3 +6440,6 @@ table td, table th {
 .italic{font-style: italic !important;}
 .italic .sch-time{font-style: italic !important;}
 .kode-event-blog3 p{margin-top: 15px; font-size: 16px; display: inline-block;}
+ul.partners{list-style-type: none;margin: 10px 0; padding: 0; width: 100%;}
+ul.partners li{list-style-type: none;margin: 0; padding: 0; width: 25%; float: left;}
+ul.partners li img{height: 49px; width: auto; margin: auto;}
