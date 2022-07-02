@@ -154,6 +154,7 @@ $(document).ready(function(){
 	if($('#kode-speaker-causel').length){
 		var owl = $("#kode-speaker-causel");
 		owl.owlCarousel({	
+		  autoPlay: 3000, //Set AutoPlay to 3 seconds
 		  itemsCustom : [
 			[0, 1],
 			[450, 1],
@@ -164,7 +165,7 @@ $(document).ready(function(){
 			[1400, 3],
 			[1600, 3]
 		  ],
-		  navigation : true
+		  navigation : true,
 
 		});
 	}

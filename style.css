@@ -6443,3 +6443,13 @@ table td, table th {
 ul.partners{list-style-type: none;margin: 10px 0; padding: 0; width: 100%;}
 ul.partners li{list-style-type: none;margin: 0; padding: 0; width: 25%; float: left;}
 ul.partners li img{height: 49px; width: auto; margin: auto;}
+
+.modal-body h3{font-size: 24px; margin-bottom: 20px;font-weight: 700;}
+.modal-body h3 span{display:block;font-size: 14px;color: #a4a4a4;font-weight: 400;}
+.tab-content .col-md-4{margin: 10px 0;}
+
+.scheduletabs.new{margin:0 !Important; border: 0!important; border-top: 1px solid #e6e6e6!important; max-width: 100%!important;}
+.scheduletabs.new .nav-tabs{border-left: 1px solid #e6e6e6!important;}
+.scheduletabs.new .tab-content{padding: 30px 0!important;}
+.modal-dialog {height: 80% !important;padding-top:10%;}
+.modal-body {height: 80%;overflow: auto;}
