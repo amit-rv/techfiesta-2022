@@ -1221,10 +1221,13 @@ h6 {
 }
 
 .scheduletabs .panel-title {
-    font-size: 26px;
+    font-size: 24px;
     line-height: 30px;
     border-bottom: 1px solid #e6e6e6;
     padding: 0 0 10px;
+}
+.scheduletabs .panel-title p{
+    font-size: 16px !important;
 }
 
 .scheduletabs .panel-group .panel-heading + .panel-collapse > .panel-body {
