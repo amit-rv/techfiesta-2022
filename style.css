@@ -6444,7 +6444,7 @@ table td, table th {
 .italic .sch-time{font-style: italic !important;}
 .kode-event-blog3 p{margin-top: 15px; font-size: 16px; display: inline-block;}
 ul.partners{list-style-type: none;margin: 10px 0; padding: 0; width: 100%;}
-ul.partners li{list-style-type: none;margin: 0; padding: 0; width: 25%; float: left;}
+ul.partners li{list-style-type: none;margin: 0; padding: 5px 0; width: 20%; float: left;}
 ul.partners li img{height: 49px; width: auto; margin: auto;}
 
 .modal-body h3{font-size: 24px; margin-bottom: 20px;font-weight: 700;}
